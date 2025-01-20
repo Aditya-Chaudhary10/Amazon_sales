@@ -6,4 +6,6 @@ Amazon-sales
 Team members:- Aditya Chaudhary
 Kirtan Chaplot
 Naman Bhanushali
+Purvi Kapadia
+
 
